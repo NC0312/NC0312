@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/Niket-Chawla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nikoooz04/?next=%2Fim_nc0312%2F&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://leetcode.com/i_m_nc0312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/NC_0312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-studio.svg" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/NC_0312" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
