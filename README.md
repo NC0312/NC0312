@@ -4,11 +4,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Niket Chawla</h1>
-<h3 align="center">Pre Final Year CSE Student</h3>
+<h3 align="center">Software Engineering Intern at Twinline Business Solutions | Java Developer | MERN Stack & Next.js Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NC0312&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 📫 How to reach me *niketchawla983@gmail.com*
+- 📫 How to reach me *contactniketchawla@gmai.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
